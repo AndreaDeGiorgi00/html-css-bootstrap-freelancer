@@ -1,0 +1,18 @@
+header{
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    min-height: 100px;
+    background-color: aquamarine;
+}
+
+
+
+.first-section{
+    padding-top: 100px;
+}
+/*utilities*/
+.border-d{
+    border: 1px dotted black;
+}

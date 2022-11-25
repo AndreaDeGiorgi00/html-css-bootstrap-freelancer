@@ -85,3 +85,32 @@ img{
 .line-break i{
     font-size: 30px;
 }
+
+/*ABOUT section*/
+p{
+    padding: 0 50px;
+}
+
+button{
+    background-color: transparent;
+    border: 1px solid white;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+
+
+@media screen and (min-width:992px){
+    
+    p.left{
+        padding-left: 150px;
+        padding-right: 30px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    p.right{
+        padding-right: 150px;
+        padding-left: 30px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}
